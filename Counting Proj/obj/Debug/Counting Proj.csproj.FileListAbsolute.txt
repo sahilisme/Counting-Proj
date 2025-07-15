@@ -1,0 +1,10 @@
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\bin\Debug\Counting Proj.exe.config
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\bin\Debug\Counting Proj.exe
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\bin\Debug\Counting Proj.pdb
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\obj\Debug\Counting Proj.csproj.AssemblyReference.cache
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\obj\Debug\Counting_Proj.Form1.resources
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\obj\Debug\Counting_Proj.Properties.Resources.resources
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\obj\Debug\Counting Proj.csproj.GenerateResource.cache
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\obj\Debug\Counting Proj.csproj.CoreCompileInputs.cache
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\obj\Debug\Counting Proj.exe
+C:\Users\sahil\source\repos\Counting Proj\Counting Proj\obj\Debug\Counting Proj.pdb
